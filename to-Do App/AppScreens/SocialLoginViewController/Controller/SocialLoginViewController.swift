@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SocialLoginViewController.swift
 //  to-Do App
 //
 //  Created by Exalture Software Labs on 24/09/19.
@@ -8,13 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SocialLoginViewController: CommonViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
+    
 }
-
